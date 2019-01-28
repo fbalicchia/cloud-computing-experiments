@@ -1,5 +1,5 @@
 ## Consistency
-This part of course was the most difficult from my point of view but very interesting. The thing that I don't like is done a very good over view of algorithms but don't provide a broad overview of real case. These case was founded in fantastic book " Design Data Intensive application" in chapter Problem that occured in distributed system..
+This part of course was the most difficult from my point of view but very interesting. The thing that I don't like is done a very good overview of algorithms but don't provide a broad overview of real case. These case was founded in fantastic book " Design Data Intensive application" in chapter Problem that occured in distributed system..
 
 An algorithm is written on base of formalization of type of fault in a particular the system type. A common system type are: (page 307)
 
