@@ -31,9 +31,6 @@ for more clarify we can distinguish two properties Safety and liveness propertie
 
 if a safety properties is violated Liveness can be defined as something good eventually happens
  
- "write here definition"
-
-
 Consistency Model:
 
 This notes come from jepsen.io consistency documentation and Design Data Intesive application page 329
